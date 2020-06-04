@@ -1,0 +1,8 @@
+http:
+  port: "8081"
+
+sfdc:
+  username: "johnmathewphilip10@gmail.com"    
+  pass: "fathima000@"
+  token: "AlN7Kb8HccL5nScxn2SofNjL3"
+  
